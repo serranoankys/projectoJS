@@ -1,0 +1,10 @@
+Criar a pasta do projeto
+Inicializar o repositório do git
+$ git init
+Inicializar a configuração do npm
+$ npm init
+Instalar o typescript
+$ npm install typescript --save-dev
+Inicializar a configuração do typescript
+$ npx tsc --init
+Criar arquivo .gitignore e adicionar a linha node_modules/
